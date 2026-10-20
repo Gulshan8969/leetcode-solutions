@@ -30,8 +30,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
