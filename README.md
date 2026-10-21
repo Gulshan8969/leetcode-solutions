@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0498-diagonal-traverse](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 ## Matrix
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 ## String
 |  |
 | ------- |
