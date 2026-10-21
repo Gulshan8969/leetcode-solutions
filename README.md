@@ -9,12 +9,14 @@
 | [0118-pascals-triangle](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0498-diagonal-traverse](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 ## Simulation
 |  |
