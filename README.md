@@ -13,6 +13,7 @@
 | [0498-diagonal-traverse](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 ## Matrix
 |  |
@@ -54,13 +55,35 @@
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 ## Math
 |  |
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
