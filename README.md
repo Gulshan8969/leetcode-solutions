@@ -39,6 +39,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1360-number-of-days-between-two-dates](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 ## Trie
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
