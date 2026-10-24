@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -91,5 +92,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
