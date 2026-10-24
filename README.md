@@ -52,6 +52,7 @@
 | [0179-largest-number](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1360-number-of-days-between-two-dates](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [2278-percentage-of-letter-in-string](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 ## Trie
 |  |
 | ------- |
