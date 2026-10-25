@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -22,6 +23,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
