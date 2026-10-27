@@ -17,6 +17,7 @@
 | [0498-diagonal-traverse](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -65,12 +66,14 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0905-sort-array-by-parity](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
