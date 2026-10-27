@@ -20,6 +20,7 @@
 | [0905-sort-array-by-parity](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
@@ -44,6 +45,7 @@
 | [0036-valid-sudoku](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0905-sort-array-by-parity](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
@@ -112,6 +115,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,4 +126,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0179-largest-number) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
