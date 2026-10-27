@@ -46,6 +46,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0179-largest-number](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1360-number-of-days-between-two-dates](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2278-percentage-of-letter-in-string](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 ## Trie
 |  |
