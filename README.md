@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -134,4 +135,12 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
