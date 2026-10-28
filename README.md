@@ -23,6 +23,7 @@
 | [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Matrix
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
