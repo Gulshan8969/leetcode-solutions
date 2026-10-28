@@ -22,6 +22,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
+| [1528-shuffle-string](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Matrix
@@ -62,6 +63,7 @@
 | [0179-largest-number](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1360-number-of-days-between-two-dates](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [1528-shuffle-string](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2278-percentage-of-letter-in-string](https://github.com/Gulshan8969/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 ## Trie
