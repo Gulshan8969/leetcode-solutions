@@ -54,6 +54,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/Gulshan8969/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 ## Divide and Conquer
 |  |
@@ -151,4 +153,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gulshan8969/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
